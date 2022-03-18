@@ -1,0 +1,5 @@
+os
+shutil
+sys
+pytesseract==0.3.8
+tqdm==4.62.0
